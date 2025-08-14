@@ -1,6 +1,7 @@
 # 🎓 Student Feedback Portal
 
 A web-based portal for gathering and analyzing student feedback on courses and instructors. Easily submit feedback, view summaries, and enhance educational experiences.
+[Deployed Link](https://student-feedback-portal-kappa.vercel.app/)
 
 ---
 
