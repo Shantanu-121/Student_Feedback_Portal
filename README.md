@@ -134,5 +134,3 @@ Distributed under the MIT License. See `LICENSE` for details.
 - Repository URL: [https://github.com/Shantanu-121/Student_Feedback_Portal](https://github.com/Shantanu-121/Student_Feedback_Portal)
 
 ---
-
-*Feel free to customize this `README.md` to reflect your actual implementation details (e.g., frontend technology, authentication method, database type).*
